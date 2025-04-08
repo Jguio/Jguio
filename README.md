@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jguio
 - 👀 I’m interested in technology and science
-- 🌱 I’m currently learning python for Data Science
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on projects innovatives
 - 📫 How to reach me www.linkedin.com/in/juan-pablo-guío-gonzález
 
